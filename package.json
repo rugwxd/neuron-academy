@@ -1,5 +1,5 @@
 {
-  "name": "the-final-boss",
+  "name": "neuron-academy",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,12 +9,28 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@mdx-js/loader": "^3.1.1",
+    "@mdx-js/react": "^3.1.1",
+    "@next/mdx": "^16.1.6",
+    "d3": "^7.9.0",
+    "gray-matter": "^4.0.3",
+    "katex": "^0.16.33",
     "next": "16.1.6",
+    "next-mdx-remote": "^6.0.0",
+    "plotly.js-dist-min": "^3.4.0",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "react-katex": "^3.1.0",
+    "react-plotly.js": "^2.6.0",
+    "rehype-katex": "^7.0.1",
+    "rehype-pretty-code": "^0.14.1",
+    "remark-math": "^6.0.0",
+    "shiki": "^3.22.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/d3": "^7.4.3",
+    "@types/katex": "^0.16.8",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
