@@ -2,7 +2,7 @@
 
 A comprehensive, free, open-source learning platform covering **data science, machine learning, and AI** — from Python basics to RLHF, from SQL window functions to distributed training, from descriptive stats to transformers.
 
-**Live site:** [rugwxd.github.io/neuron-academy](https://rugwxd.github.io/neuron-academy)
+**Live site:** [rugwed9.github.io/neuron-academy](https://rugwed9.github.io/neuron-academy)
 
 ## What This Is
 
